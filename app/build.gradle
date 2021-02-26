@@ -47,5 +47,6 @@ dependencies {
     implementation "android.arch.lifecycle:livedata:1.1.1"
     annotationProcessor "android.arch.lifecycle:compiler:1.1.1"
 
+    implementation 'com.android.support:design:29.0.0'
     implementation 'com.github.hajiyevelnur92:intentanimation:1.0'
 }
